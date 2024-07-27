@@ -8,7 +8,7 @@ Downloaded file from the site is named 'results.csv'.
 
 waterq is is a PyPI application designed to seamlessly download the results.csv file and provide visualizations of time-series water quality data across a variety of characteristics. waterq serves as an interactive platform that allows users to explore and analyze selected water quality characteristics. 
 
-waterq empowers users to identify anomalies in water quality data, spanning from historical records to current observations and extending into near-future predictions.
+waterq empowers users to identify anomalies in water quality data, spanning from historical records to current observations and extending into near-future predictions. Red points indicate anomalities.
 
 # How to install waterq
 
