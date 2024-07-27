@@ -16,4 +16,4 @@ $ pip install waterq
 
 $ waterq
 
-<img src='STRI_RBWF_result.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/water/raw/main/STRI_RBWF_result.png' height=480 width=640>
