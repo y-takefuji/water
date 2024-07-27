@@ -15,3 +15,5 @@ $ pip install waterq
 # How to run waterq
 
 $ waterq
+
+<img src='STRI_RBWF_result.png' height=480 width=640>
